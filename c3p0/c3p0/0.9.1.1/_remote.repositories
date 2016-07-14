@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 12 16:53:18 CST 2016
+c3p0-0.9.1.1.jar>nexus-osc=
+c3p0-0.9.1.1-sources.jar>nexus-osc=
+c3p0-0.9.1.1.pom>nexus-osc=
