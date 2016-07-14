@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 12 16:53:10 CST 2016
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact aopalliance\:aopalliance\:jar\:1.0 from/to nexus-osc (http\://maven.oschina.net/content/groups/public/)\: The operation was cancelled.
+http\://repo.maven.apache.org/.error=
+http\://mvnrepository.com/.error=
+http\://mirrors.ibiblio.org/maven2/.lastUpdated=1468309356100
+@default-nexus-osc-http\://maven.oschina.net/content/groups/public/.lastUpdated=1468308864066
+http\://mvnrepository.com/.lastUpdated=1468309595659
+http\://repo.maven.apache.org/.lastUpdated=1468310561615
+http\://mirrors.ibiblio.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1468313590677

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 12 15:52:37 CST 2016
+@default-nexus-osc-http\://maven.oschina.net/content/groups/public/.lastUpdated=1468309957326
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact asm\:asm\:jar\:sources\:3.3.1 from/to nexus-osc (http\://maven.oschina.net/content/groups/public/)\: Failed to transfer http\://maven.oschina.net/content/groups/public/asm/asm/3.3.1/asm-3.3.1-sources.jar. Error code 502, Bad Gateway
